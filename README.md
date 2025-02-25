@@ -4,16 +4,16 @@ Il permet la gestion des utilisateurs, des abonnements, des jeux solo et multijo
 
 📌 Contenu du dépôt :
 
-MCD & MCT : Modélisation conceptuelle (images)
-Script SQL : Création de la base de données
-Requêtes SQL : Interactions et tests
+ - MCD & MCT : Modélisation conceptuelle (images)
+ - Script SQL : Création de la base de données
+ - Requêtes SQL : Interactions et tests
 
 
 ⚡ Fonctionnalités principales :
 
-Inscription et validation des utilisateurs
-Gestion des abonnements et paiements
-Sauvegarde des soirées en solo
-Connexion aux serveurs pour les jeux multijoueurs
-Historique des duels entre joueurs
-Ce projet constitue la base de données essentielles pour le développement du portail WeJeux .
+ - Inscription et validation des utilisateurs
+ - Gestion des abonnements et paiements
+ - Sauvegarde des soirées en solo
+ - Connexion aux serveurs pour les jeux multijoueurs
+ - Historique des duels entre joueurs
+ - Ce projet constitue la base de données essentielles pour le développement du portail WeJeux .
